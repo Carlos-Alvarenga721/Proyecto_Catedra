@@ -16,7 +16,7 @@ namespace Proyecto_Cátedra
 
         static void Proyecto_Catedra()
         {
-
+            Console.Title = "Proyecto de Catedra";
             string usuario, contraseña;
             string [,] productos = new string [11,4];
             double opcion;
