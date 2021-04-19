@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/79995182/115089981-d773aa80-9ed0-11eb-9057-cbb1d840ff46.png)
 
- ## En este repositorio se pueden encontrar los siguientes elementos:
+ ## En este archivo README se pueden encontrar los siguientes elementos:
  
 **1) Los integrantes del trabajo, con su número de grupo teórico**
 
