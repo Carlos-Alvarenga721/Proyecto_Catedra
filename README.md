@@ -11,6 +11,8 @@
      -Flores Bran William Geovanni FB210472 100%
      -Novoa Velásquez Yesenia Nicole NV210134 100%
      -Rodríguez Cisneros Walter Alexander RC210464 0%
+     
+     TODOS LOS ESTUDIANTES SON DEL GRUPO TEORICO 04 DE PROGRAMACION ESTRUCTURADA
 
 
 **2) Link Manual de usuario**
@@ -20,7 +22,7 @@
 
 **3) Link Trello**
     https://trello.com/b/kve1xfX5/proyecto
-    [TRELLO.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6333060/TRELLO.pdf)
+    [TRELLO.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6333108/TRELLO.pdf)
 
   
 
