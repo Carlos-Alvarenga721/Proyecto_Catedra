@@ -15,12 +15,14 @@
 
 
 **2) Link Manual de usuario**
-    
+    [MANUAL DE USUARIO (1).pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6462510/MANUAL.DE.USUARIO.1.pdf)
 
 
 
 **3) Link Trello**
     https://trello.com/b/kve1xfX5/proyecto
+    
+
    
 
   
