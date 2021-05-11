@@ -45,6 +45,8 @@
 **6) Link del video del funcionamiento del codigo del proyecto**
 https://www.youtube.com/watch?v=iz5etwEMw8E
 
+https://www.youtube.com/watch?v=VOnlHmRWksw
+
 
      
  
