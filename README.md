@@ -15,13 +15,13 @@
 
 
 **2) Link Manual de usuario**
-    [MANUAL DE USUARIO.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6333066/MANUAL.DE.USUARIO.pdf)
+    
 
 
 
 **3) Link Trello**
     https://trello.com/b/kve1xfX5/proyecto
-    [TRELLO.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6333108/TRELLO.pdf)
+   
 
   
 
@@ -33,9 +33,14 @@
    
    -Esta licencia no permite un uso comercial de la obra original ni de las posibles obras derivadas. Además, la distribución de estas obras derivadas se debe hacer con una         licencia igual a la que regula la obra original.
    
-   -La licencia que utilizamos se puede evidenciar al final del manual de usuario adjunto en este archivo README.
+   -La licencia que utilizamos se puede evidenciar al final del manual de usuario adjunto en este archivo README. (La licencia no tuvo ningun cambio para esta ultima entrega, se mantiene la misma licencia.
  
 
 **5) Link del video con el funcionamiento**
      https://www.youtube.com/watch?v=DdXuXmts4x8
+     https://www.youtube.com/watch?v=sHo_nuPG3P4
+     
+**6) Link del video del funcionamiento del codigo del proyecto**
+
+     
  
