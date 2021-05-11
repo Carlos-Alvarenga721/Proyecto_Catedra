@@ -21,7 +21,7 @@
 
 **3) Link Trello**
     https://trello.com/b/kve1xfX5/proyecto
-    
+    [trello_ultima etapa.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6462535/trello_ultima.etapa.pdf)
 
    
 
@@ -43,6 +43,8 @@
      https://www.youtube.com/watch?v=sHo_nuPG3P4
      
 **6) Link del video del funcionamiento del codigo del proyecto**
+https://www.youtube.com/watch?v=iz5etwEMw8E
+
 
      
  
