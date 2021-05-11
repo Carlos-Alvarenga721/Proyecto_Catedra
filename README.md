@@ -8,9 +8,9 @@
 
      -Alvarenga Claros Carlos Alexander AC211104 100%
      -Guerrero Zelaya Diego Benjamín GZ210369 100%
-     -Flores Bran William Geovanni FB210472 100%
+     -Flores Bran William Geovanni FB210472 0%
      -Novoa Velásquez Yesenia Nicole NV210134 100%
-     -Rodríguez Cisneros Walter Alexander RC210464 0%
+     -Rodríguez Cisneros Walter Alexander RC210464 100%
      -TODOS LOS ESTUDIANTES SON DEL GRUPO TEORICO 04 DE PROGRAMACION ESTRUCTURADA
 
 
