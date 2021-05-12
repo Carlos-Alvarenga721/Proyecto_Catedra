@@ -15,15 +15,14 @@
 
 
 **2) Link Manual de usuario**
-
-    [MANUAL DE USUARIO (1).pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6462510/MANUAL.DE.USUARIO.1.pdf)
+[MANUAL DE USUARIO (1).pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6462510/MANUAL.DE.USUARIO.1.pdf)
 
 
 
 **3) Link Trello**
     https://trello.com/b/kve1xfX5/proyecto
     
-    [trello_ultima etapa.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6462535/trello_ultima.etapa.pdf)
+   [trello_ultima etapa.pdf](https://github.com/Carlos-Alvarenga721/Proyecto_Catedra/files/6462535/trello_ultima.etapa.pdf)
 
    
 
@@ -42,7 +41,7 @@
 **5) Link del video con el funcionamiento**
      https://www.youtube.com/watch?v=DdXuXmts4x8
      
-     https://www.youtube.com/watch?v=sHo_nuPG3P4
+   https://www.youtube.com/watch?v=sHo_nuPG3P4
      
 **6) Link del video del funcionamiento del codigo del proyecto**
 
